@@ -1,6 +1,6 @@
 # VirusTarget · 病毒靶子
 
-> 把「病毒行为」做成一个**可控靶子 App**，用来验证「游龙（youlong-security 武将）」能否清除它。
+> 把「病毒行为」做成一个**可控靶子 App**，用来验证「游龙（youlong-security ）」能否清除它。
 > 本仓库由 `AdminTest` 的 `virus-target` 分支独立搬出，代码同源。
 
 ## 设定：文官 vs 武将 vs 病毒
